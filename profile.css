@@ -1,0 +1,13 @@
+.fa-envelope:hover { color: #a50404; }
+.fa-github:hover { color: #a50404; }
+.fa-linkedin:hover { color: #a50404; }
+.icons i {
+  font-size: 28px;
+  color: #e2e8f0;
+  transition: 0.3s;
+}
+
+.icons i:hover {
+  color: #c50101;
+  transform: scale(1.2);
+}
